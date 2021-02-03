@@ -27,6 +27,9 @@
       "pre-commit": "tsdx lint"
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "prettier": {
     "printWidth": 80,
     "semi": true,
