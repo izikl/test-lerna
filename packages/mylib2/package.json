@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mylib2",
+  "name": "@izikl/mylib2",
   "author": "Izik Lisbon",
   "module": "dist/mylib2.esm.js",
   "size-limit": [
