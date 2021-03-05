@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/izikl/test-lerna/compare/v2.0.1...v2.2.0) (2021-03-05)
+
+
+### Features
+
+* test canary ([0d4a2b5](https://github.com/izikl/test-lerna/commit/0d4a2b5c00e571beff50cf2e0bb7e9ec454e5b90))
+
+
+
+
+
 # [2.1.0](https://github.com/izikl/test-lerna/compare/v2.0.1...v2.1.0) (2021-03-05)
 
 
