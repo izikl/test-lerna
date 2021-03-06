@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [2.3.6](https://github.com/izikl/test-lerna/compare/v2.3.5...v2.3.6) (2021-03-06)
+
+
+### Miscellaneous Chores
+
+* is chose added to description ([40428b1](https://github.com/izikl/test-lerna/commit/40428b101eb1a176d9a46a06c485d7f5a74d5f59))
+
+
+
 ### [2.3.5](https://github.com/izikl/test-lerna/compare/v2.3.4...v2.3.5) (2021-03-06)
 
 
