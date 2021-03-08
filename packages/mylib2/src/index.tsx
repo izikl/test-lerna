@@ -2,5 +2,5 @@ import * as React from 'react';
 
 // Delete me
 export const Thing = () => {
-  return <div>mylib2 - 10</div>;
+  return <div>mylib2 - 11</div>;
 };
