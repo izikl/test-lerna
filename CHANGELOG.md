@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [2.3.7](https://github.com/izikl/test-lerna/compare/v2.3.6...v2.3.7) (2021-03-08)
+
+
+### Bug Fixes
+
+* change 1 ([13b9fae](https://github.com/izikl/test-lerna/commit/13b9fae6267ce2681be29d586691f0e48af8c01b))
+* change 1 in mylib3 ([8dd13a7](https://github.com/izikl/test-lerna/commit/8dd13a79e874e6f5a697ff9ebf02109a5f31fde9))
+* change 2 ([da7686d](https://github.com/izikl/test-lerna/commit/da7686d55cee7a5471ea708c31a1c46f8416675f))
+
+
+
 ### [2.3.6](https://github.com/izikl/test-lerna/compare/v2.3.5...v2.3.6) (2021-03-06)
 
 
