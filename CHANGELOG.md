@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [3.1.5](https://github.com/izikl/test-lerna/compare/v3.1.4...v3.1.5) (2021-03-11)
+
+
+### Bug Fixes
+
+* myliv2 27 ([bf9f7af](https://github.com/izikl/test-lerna/commit/bf9f7afb3dc4368753aaffc2da559bc8f0c41b42))
+
+
+### Miscellaneous Chores
+
+* version script ([5a8ba1b](https://github.com/izikl/test-lerna/commit/5a8ba1b6fc87e2b963f2c88a2e69c3c236f14237))
+
+
+
 ### [3.1.4](https://github.com/izikl/test-lerna/compare/v3.1.3...v3.1.4) (2021-03-11)
 
 
