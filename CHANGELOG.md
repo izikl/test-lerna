@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [3.1.6](https://github.com/izikl/test-lerna/compare/v3.1.5...v3.1.6) (2021-03-11)
+
+
+### Bug Fixes
+
+* mylib2 with version.js ([61c6d3a](https://github.com/izikl/test-lerna/commit/61c6d3adbd0ea831164bc3a5ed67ab310bf6cd85))
+
+
+
 ### [3.1.5](https://github.com/izikl/test-lerna/compare/v3.1.4...v3.1.5) (2021-03-11)
 
 
