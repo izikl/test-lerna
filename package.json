@@ -6,7 +6,7 @@
     ]
   },
   "scripts": {
-    "version": "echo ------------------------------TEST---------------------------------"
+    "version": "git status && node version.js && git add *"
   },
   "private": true,
   "devDependencies": {
