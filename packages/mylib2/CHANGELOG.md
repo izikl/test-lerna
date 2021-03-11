@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [3.1.11](https://github.com/izikl/test-lerna/compare/v3.1.10...v3.1.11) (2021-03-11)
+
+
+### Bug Fixes
+
+* mylib2 - 33 ([b4cf4d2](https://github.com/izikl/test-lerna/commit/b4cf4d20c261e93d885f962fbc440d26061bacf5))
+
+
+
 ### [3.1.10](https://github.com/izikl/test-lerna/compare/v3.1.9...v3.1.10) (2021-03-11)
 
 
