@@ -6,7 +6,7 @@
     ]
   },
   "scripts": {
-    "version": "git status && node version.js && git add *"
+    "version": "git status && node version.js && git add * && git status"
   },
   "private": true,
   "devDependencies": {
